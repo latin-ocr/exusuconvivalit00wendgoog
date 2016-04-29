@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./exusuconvivalit00wendgoog_0003.png"; bbox 0 0 829 1360; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 269 378 515 614">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 269 378 515 614">
+     <span class='ocr_line' id='line_1_1' title="bbox 269 378 515 614; baseline 0 746"><span class='ocrx_word' id='word_1_1' title='bbox 269 378 515 614; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 264 652 527 673">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 264 652 527 673">
+     <span class='ocr_line' id='line_1_2' title="bbox 264 652 527 673; baseline -0.008 -1"><span class='ocrx_word' id='word_1_2' title='bbox 264 652 348 672; x_wconf 64' lang='lat' dir='ltr'>{Damam</span> <span class='ocrx_word' id='word_1_3' title='bbox 363 652 436 673; x_wconf 66' lang='lat' dir='ltr'>&lt;Colitur</span> <span class='ocrx_word' id='word_1_4' title='bbox 451 652 527 670; x_wconf 59' lang='lat' dir='ltr'>mutarn</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 314 760 553 816">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 314 760 553 816">
+     <span class='ocr_line' id='line_1_3' title="bbox 314 760 553 816; baseline 0.008 -26"><span class='ocrx_word' id='word_1_5' title='bbox 314 760 372 816; x_wconf 41' lang='lat'>63⁴3</span> <span class='ocrx_word' id='word_1_6' title='bbox 384 761 553 810; x_wconf 46' lang='grc' dir='ltr'>ἓοκὼωωᾶμ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
